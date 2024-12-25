@@ -5,6 +5,7 @@ import random
 from settings import *
 
 pygame.init()
+pygame.display.set_caption("Bouncing Balls")
 
 class Ball:
     def __init__(self, position, velocity):
