@@ -1,5 +1,3 @@
-import pygame
-
 # Screen dimensions
 WIDTH = 800
 HEIGHT = 800
@@ -21,6 +19,3 @@ CIRCLE_CENTER = (WIDTH // 2, HEIGHT // 2)
 INITIAL_BALL_POS = (WIDTH // 2, HEIGHT // 2 - 120)
 
 FPS = 60
-
-pygame.init()
-pygame.mixer.init()

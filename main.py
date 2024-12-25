@@ -4,6 +4,8 @@ import math
 import random
 from settings import *
 
+pygame.init()
+
 class Ball:
     def __init__(self, position, velocity):
         self.position = np.array(position, dtype=np.float64)
