@@ -5,8 +5,9 @@ Applying geometry and physics algorithms for accurate reflections.
 # Instructions
 Pygame and Python3 are required.
 From cmd/PowerShell:
-
-``` python main.py ```
+```javascript
+python main.py
+```
 
 https://github.com/user-attachments/assets/9aad18c9-0680-4454-90ca-bab56aa7d795
 
